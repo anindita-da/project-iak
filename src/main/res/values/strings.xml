@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyFavorite</string>
+    <string name="aboutov1">TheOvertunes is an Indonesian Acoustic Band formed in 2010. Consisting of Mikha Angelo in vocals, Reuben Nathaniel in guitar, and Mada Emanuelle in bass/drums.</string>
+    <string name="aboutov2">Though officially started in around 2010, Mada, Reuben, and Mikha have lived together all their lifetime. Four of them were born in one same big family. Mada, Reuben, and Mikha are siblings. TheOvertunes is the product of the brother’s musical vision and work throughout their childhood playing music. All of the band members are also songwriters, many of TheOvertunes original songs were co-written together. Right now, acoustic and soul is the band’s favorite genre to deliver their music and messages.</string>
+    <string name="aboutov3">Walaupun secara resmi baru dimulai pada tahun 2010, Mada, Reuben, dan Mikha telah tinggal bersama seumur hidup mereka. Mada, Reuben, dan Mikha adalah 3 saudara kandung dan TheOvertunes secara tidak langsung adalah hasil karya bermusik ke-3 saudara ini dari masa kecil mereka bermain musik. Sejak pertama kali mengambil instrumen masing-masing dan jamming bersama. Ke tiga personil, selain pemegang instrumen musik, juga adalah penulis lagu. Banyak lagu original TheOvertunes ditulis mereka bersama. Akustik dan soul menjadi genre penyalur favorit mereka saat ini.</string>
+    <string name="dbvc">○ Dunia Bersamamu - https://www.youtube.com/watch?v=lkBQcxfpDNE</string>
+    <string name="spvc">○ Sayap Pelindungmu - https://www.youtube.com/watch?v=3gxgiuyFHoY</string>
+    <string name="kiktvc">○ Ku Ingin Kau Tahu - https://www.youtube.com/watch?v=kCJFo99-NHI</string>
+    <string name="mungkinvc">○ Mungkin - https://www.youtube.com/watch?v=IOwDyJaVtMY</string>
+    <string name="jdsvc">○ Jatuh Dari Surga - https://www.youtube.com/watch?v=Ht6QPQbiQMI</string>
+    <string name="alien">○ Alien - https://www.youtube.com/watch?v=Mf_JHZIRWOQ</string>
+    <string name="melayang">○ Melayang - https://www.youtube.com/watch?v=vta-5pA35Fc</string>
+    <string name="selamanya">○ Selamanya - https://www.youtube.com/watch?v=h6tE6jX2um8</string>
+    <string name="cinta">○ Cinta - https://www.youtube.com/watch?v=vbl492EbViA</string>
+    <string name="iify">○ If Its For You - https://www.youtube.com/watch?v=4sX1qhwRI2g</string>
+</resources>
